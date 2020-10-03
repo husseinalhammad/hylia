@@ -7,26 +7,14 @@ tags:
 - blog
 
 ---
-A simple post to demonstrate how a normal blog post looks on Hylia. Content is
-all set in the “Body” field as markdown and Eleventy transforms it into a proper
-HTML post. You can also edit the markdown file directly if you prefer not to use
-the CMS.
+ها نحن ذا ، على دروب كنزنا. نسير معاً و أمالنا تسير قبلنا. من غيرنا؟ يقطع درباً مثلنا! درباً خطيرة إلى الجزيرة ، من غيرنا؟
 
-How about a `<blockquote>`?
+> ها نحن ذا ، على دروب كنزنا. نسير معاً و أمالنا تسير قبلنا. من غيرنا؟ يقطع درباً مثلنا! درباً خطيرة إلى الجزيرة ، من غيرنا؟
 
-> Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vitae elit libero, a pharetra augue.
+تجربة:
 
-A list of stuff:
+* ها نحن ذا ، على دروب كنزنا. نسير معاً و أمالنا تسير قبلنا. من غيرنا؟ 
+* يقطع درباً مثلنا! درباً خطيرة إلى الجزيرة ، من غيرنا؟
+* Sed posuere consectetur est at lobortis
 
-- Sed posuere consectetur est at lobortis
-- Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
-
-How about an ordered list of stuff:
-
-1. Sed posuere consectetur est at lobortis
-2. Aenean lacinia bibendum nulla sed consectetur
-3. Sed posuere consectetur est at lobortis
-
-
-Hopefully, this has demonstrated how simple it is to make a nice looking blog with Hylia.
+![](/images/demo-image-1.jpg)
